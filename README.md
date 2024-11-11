@@ -1,4 +1,4 @@
-# reaction-timer
+# reaction-timer (click fast as you can :)
 
 ## Project setup
 ```
