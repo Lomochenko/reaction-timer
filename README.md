@@ -2,4 +2,5 @@
 
 ## Start the game
 ```
-https://lomochenko.github.io/reaction-timer/
+[Reaction Timer](https://lomochenko.github.io/reaction-timer/)  
+
